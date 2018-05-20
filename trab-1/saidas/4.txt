@@ -1,0 +1,9 @@
+Esta ordenado? S.
+Índice encontrado:
+  - Binária: 500
+  - Sequencial: 500
+  - Bogo: 500
+Número de comparações:
+  - Binária: 1
+  - Sequencial: 501
+  - Bogo: 157
