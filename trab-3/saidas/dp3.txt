@@ -1,0 +1,1 @@
+min=-6616, inicio=3, fim=3
